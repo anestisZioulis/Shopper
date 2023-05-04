@@ -46,6 +46,7 @@ check out and see the overall cost of the order.
 You can access a runnable demo hosted on `replit.com` from the following link:
 
 > https://replit.com/@anestisZioulis/Shopper?v=1
+
 In case it's down, you can watch the .gif file below to get an idea.
 
 <div align="center">
